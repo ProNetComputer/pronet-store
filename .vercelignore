@@ -1,0 +1,10 @@
+node_modules
+.next
+.git
+*.zip
+*.tar.gz
+data/backups
+data/*.db
+data/*.db-*
+data/INITIAL_CREDENTIALS.txt
+pronet-deploy.zip

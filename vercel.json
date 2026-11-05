@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "nodeVersion": "22.x",
+  "env": {
+    "PRONET_DB_PATH": "/tmp/pronet.db",
+    "PRONET_SITE_URL": "https://pronet-computer.com"
+  }
+}
